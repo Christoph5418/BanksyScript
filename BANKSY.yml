@@ -1,0 +1,11 @@
+name: BANKSY
+channels:
+  - conda-forge # add any other channels you might need
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - scanpy
+  - numba
+  - python-igraph
+  - leidenalg
